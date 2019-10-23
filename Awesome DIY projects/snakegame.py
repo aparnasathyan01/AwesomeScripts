@@ -6,7 +6,7 @@ import time
 
 #setting up the screen
 wn = turtle.Screen()
-wn.setup(700, 700)
+wn.setup(800, 800)
 wn.bgcolor("Green")
 wn.title("Snake Game")
 
